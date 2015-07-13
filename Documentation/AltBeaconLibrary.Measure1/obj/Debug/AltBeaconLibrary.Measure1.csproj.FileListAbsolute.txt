@@ -1,0 +1,4 @@
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_06\AltBeaconLibrary.Measure1\bin\Debug\AltBeaconLibrary.Measure1.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_06\AltBeaconLibrary.Measure1\bin\Debug\AltBeaconLibrary.Measure1.pdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_06\AltBeaconLibrary.Measure1\obj\Debug\AltBeaconLibrary.Measure1.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_06\AltBeaconLibrary.Measure1\obj\Debug\AltBeaconLibrary.Measure1.pdb

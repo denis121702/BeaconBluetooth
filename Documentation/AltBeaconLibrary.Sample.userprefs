@@ -1,0 +1,27 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupItem="Android\AltBeaconLibrary.Sample.Droid.csproj">
+  <DisabledProjects>
+    <String>iOS/AltBeaconLibrary.Sample.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.589326b8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AltBeaconLibrary.WcfProxy\ProxyServiceAgent.cs">
+    <Files>
+      <File FileName="AltBeaconLibrary.Sample\MainPage.cs" Line="1" Column="14" />
+      <File FileName="AltBeaconLibrary.Sample\ListItemView.cs" Line="1" Column="1" />
+      <File FileName="AltBeaconLibrary.Sample\ListChangedEventArgs.cs" Line="1" Column="1" />
+      <File FileName="AltBeaconLibrary.Sample\BeaconViewModel.cs" Line="1" Column="1" />
+      <File FileName="AltBeaconLibrary.Sample\App.cs" Line="1" Column="1" />
+      <File FileName="Android\Services\AltBeaconService.cs" Line="1" Column="1" />
+      <File FileName="Android\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="AltBeaconLibrary.WcfProxy\ProxyServiceAgent.cs" Line="123" Column="36" />
+      <File FileName="AltBeaconLibrary.Sample\TodoListPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_09\AltBeaconLibrary.WcfProxy\ProxyServiceAgent.cs" line="49" column="25" />
+      <Breakpoint file="O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_09\AltBeaconLibrary.Sample\TodoListPage.cs" line="29" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AltBeaconLibrary.Sample.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

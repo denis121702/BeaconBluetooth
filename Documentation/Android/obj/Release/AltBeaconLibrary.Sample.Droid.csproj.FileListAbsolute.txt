@@ -1,0 +1,84 @@
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\AltBeaconLibrary.Sample.Droid.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\AltBeaconLibrary.Sample.Droid.pdb
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\org.altbeacon.formsaltbeaconsample.apk
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\org.altbeacon.formsaltbeaconsample-Signed.apk
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\AndroidAltBeaconLibrary.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\FormsViewGroup.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\AltBeaconLibrary.Sample.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\AltBeaconLibrary.Sample.Droid.dll
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\AltBeaconLibrary.Sample.Droid.pdb
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\android\bin\org.altbeacon.formsaltbeaconsample.apk
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\res\layout\main.xml
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\res\values\strings.xml
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\res\values\styles.xml
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\res\drawable\altbeacon.png
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\R.cs.flag
+C:\Users\Den\Desktop\Xamarin_Examples_beacon\Android-AltBeacon-Library-master\Samples\Forms\AltBeaconLibrary.Sample\Android\obj\Release\uploadflags.txt
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Sample.Droid.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Sample.Droid.pdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\org.altbeacon.formsaltbeaconsample.apk
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\org.altbeacon.formsaltbeaconsample-Signed.apk
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Contract.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Sample.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AndroidAltBeaconLibrary.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\ClassLibrary2.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\FormsViewGroup.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\Xamarin.Android.Support.v4.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\Xamarin.Forms.Core.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\Xamarin.Forms.Xaml.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Contract.pdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Contract.dll.mdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Sample.pdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\AltBeaconLibrary.Sample.dll.mdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\ClassLibrary2.pdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\ClassLibrary2.dll.mdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\Xamarin.Forms.Core.xml
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\bin\Release\Xamarin.Forms.Xaml.xml
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\AltBeaconLibrary.Sample.Droid.csprojResolveAssemblyReference.cache
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\AltBeaconLibrary.Sample.Droid.dll
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\AltBeaconLibrary.Sample.Droid.pdb
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\android\bin\org.altbeacon.formsaltbeaconsample.apk
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\res\layout\main.xml
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\res\values\strings.xml
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\res\values\styles.xml
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\res\drawable\altbeacon.png
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\R.cs.flag
+E:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_11\Android\obj\Release\uploadflags.txt
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Sample.Droid.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Sample.Droid.pdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\org.altbeacon.formsaltbeaconsample.apk
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\org.altbeacon.formsaltbeaconsample-Signed.apk
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Contract.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Sample.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AndroidAltBeaconLibrary.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\ClassLibrary2.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\FormsViewGroup.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\Xamarin.Android.Support.v4.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\Xamarin.Forms.Core.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\Xamarin.Forms.Xaml.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Contract.pdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Contract.dll.mdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Sample.pdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\AltBeaconLibrary.Sample.dll.mdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\ClassLibrary2.pdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\ClassLibrary2.dll.mdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\Xamarin.Forms.Core.xml
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\bin\Release\Xamarin.Forms.Xaml.xml
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\AltBeaconLibrary.Sample.Droid.csprojResolveAssemblyReference.cache
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\AltBeaconLibrary.Sample.Droid.dll
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\AltBeaconLibrary.Sample.Droid.pdb
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\android\bin\org.altbeacon.formsaltbeaconsample.apk
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\res\layout\main.xml
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\res\values\strings.xml
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\res\values\styles.xml
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\res\drawable\altbeacon.png
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\R.cs.flag
+O:\Programming2\xamarin beacon\AltBeaconLibrary.Sample_13\Android\obj\Release\uploadflags.txt
